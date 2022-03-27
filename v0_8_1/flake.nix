@@ -11,6 +11,7 @@
   inputs.src-glob-v0_8_1.ref   = "refs/tags/v0.8.1";
   inputs.src-glob-v0_8_1.owner = "haltcase";
   inputs.src-glob-v0_8_1.repo  = "glob";
+  inputs.src-glob-v0_8_1.dir   = "";
   inputs.src-glob-v0_8_1.type  = "github";
   
   inputs."regex".owner = "nim-nix-pkgs";
