@@ -11,7 +11,6 @@
   inputs.src-glob-master.ref   = "refs/heads/master";
   inputs.src-glob-master.owner = "haltcase";
   inputs.src-glob-master.repo  = "glob";
-  inputs.src-glob-master.dir   = "";
   inputs.src-glob-master.type  = "github";
   
   inputs."regex".owner = "nim-nix-pkgs";
